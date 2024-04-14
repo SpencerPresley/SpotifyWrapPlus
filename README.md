@@ -15,6 +15,4 @@
 
 ![My Image](./Images/Screenshot_2024-03-03_at_11.58.13_AM.png)  
 
-![My Image](./Images/Screenshot_2024-03-03_at_11.58.13_AM.png)  
-
 ![My_Image](./Images/Screenshot_2024-03-03_at_11.58.19_AM.png)
